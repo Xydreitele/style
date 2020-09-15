@@ -92,62 +92,6 @@
   margin-left: 4px;
 }
 
-body {
-  background-color: #fff;
-  font-family: Roboto;
-  color: #111212;
-  font-size: 14px;
-  line-height: 20px;
-  font-weight: 400;
-}
-
-h1 {
-  margin-top: 20px;
-  margin-bottom: 10px;
-  font-size: 42px;
-  line-height: 54px;
-  font-weight: 400;
-}
-
-h2 {
-  margin-top: 15px;
-  margin-bottom: 10px;
-  font-size: 32px;
-  line-height: 44px;
-  font-weight: 400;
-}
-
-h3 {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  font-size: 22px;
-  line-height: 32px;
-  font-weight: 400;
-}
-
-h4 {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  font-size: 18px;
-  line-height: 28px;
-  font-weight: 400;
-}
-
-h5 {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  font-size: 16px;
-  line-height: 26px;
-  font-weight: 400;
-}
-
-h6 {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  font-size: 15px;
-  line-height: 25px;
-  font-weight: 400;
-}
 
 p {
   margin-top: 5px;
